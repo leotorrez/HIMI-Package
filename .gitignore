@@ -1,0 +1,10 @@
+/Mods/*
+/ShaderCache
+/ShaderFixes/*
+*.bin
+*.py
+*.exe
+*.dll
+d3dx_user.ini
+*log.txt
+
