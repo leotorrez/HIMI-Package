@@ -1,4 +1,4 @@
-Honkai Impact 3rd Model Importer
+Honkai Impact Model Importer
 
 Mod Installation:
 
@@ -15,14 +15,17 @@ Mod User Hotkeys:
 [F12]: Toggle this User Guide
 [F6]: Toggle HIMI
 [F10]: Reload HIMI and Save mods settings
+[Ctrl]+[Alt]+[F10]: Reset Mod Settings and Reload
 
 Mod Developer Hotkeys:
 [F9]: Disable HIMI while held
 [Ctrl]+[F9]: Toggle Perfomance Monitor
 [Ctrl]+[F12]: Toggle Hunting Mode Guide
-Numpad [0]: Toggle Hunting Mode (green text)
 
-You can find more mods at:
+XXMI Launcher:
+Explore handy features and tweaks in Settings for best results!
+
+Check out the latest creations and community support at:
 <https://gamebanana.com/games/8552>
 <https://discord.com/invite/agmg>
 
