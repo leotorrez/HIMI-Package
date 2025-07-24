@@ -1,11 +1,10 @@
 /HIMI/Mods/*
 /HIMI/ShaderCache
-/HIMI/ShaderFixes/*
 /HIMI/d3dx_user.ini
 *.bin
 *.py
 *.exe
 *.dll
 *log.txt
-!TRASH
-!RELEASES
+!TRASH/*
+!RELEASES/*
