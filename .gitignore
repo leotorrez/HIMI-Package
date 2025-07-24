@@ -7,4 +7,5 @@
 *.exe
 *.dll
 *log.txt
-
+!TRASH
+!RELEASES
